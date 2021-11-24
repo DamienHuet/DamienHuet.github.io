@@ -1,0 +1,20 @@
+- title: "Research assistant"
+  institution: "The University of British Columbia"
+  description: "Blood rheology relevant to microﬂuidics blood plasma extraction systems. Responsibilities: designing, conducting and interpreting rheological experiments; mathematically modeling and computing blood ﬂow in a microchip device."
+  start_date: "2017-05-08"
+  end_date: "2017-08-01"
+  location: "Vancouver, BC, Canada"
+
+- title: "Mathematics instructor"
+  institution: "The University of British Columbia"
+  description: "Teaching a diﬀerential calculus course to 145 ﬁrst year university students. Implementation of several active learning techniques: flipped classroom environment, problem solving group sessions, continuous feedback."
+  start_date: "2020-09-01"
+  end_date: "2020-12-20"
+  location: "Vancouver, BC, Canada"
+
+- title: "Administrator of the repository of Pr. Wachs’ lab"
+  institution: "The University of British Columbia"
+  description: "Creation and maintenance of a GitLab repository for our research C/C++ code. Creation of a Continuous Integration (CI) workflow benefitting all developers of the group. Advocation on good coding practices within the lab, through presentations and training."
+  start_date: "2020-09-01"
+  end_date:
+  location: "Vancouver, BC, Canada"
