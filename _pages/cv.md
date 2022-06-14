@@ -28,10 +28,10 @@ Skills
 * Programming
   * C/C++ (expert)
   * Python (expert)
-  * MPI/OpenMP (expert)
+  * MPI/OpenMP (advanced)
   * Maltab (expert)
   * Git (expert)
-  * Linux/UNIX (confirmed)
+  * Linux/UNIX (advanced)
 * Languages
   * English (fluent)
   * French (fluent)
@@ -49,9 +49,16 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed%}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+  {% for post in site.awards reversed %}
+* **{{post.title}}** -- {{post.description}}.
+  {% endfor %}
+
 
 Teaching
 ======

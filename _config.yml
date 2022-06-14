@@ -87,7 +87,7 @@ author:
   location_short   : "Vancouver"
   occupation       : "PhD candidate in mathematics"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=VmqKSJ8AAAAJ&hl=en&inst=17001591832933267808"
   email            : "huet@math.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -98,7 +98,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DamienHuet"
+  github           :
+  basiliskrepo     : "http://basilisk.fr/sandbox/huet/README"
+  wachsgrouprepo   : "Not open-source yet :("
   google_plus      :
   keybase          :
   instagram        :
@@ -189,6 +191,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  awards:
     output: true
     permalink: /:collection/:path/
 
