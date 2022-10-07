@@ -27,15 +27,14 @@ Skills
 ======
 * Programming
   * C/C++ (expert)
-  * Python (expert)
+  * Python (advanced)
   * MPI/OpenMP (advanced)
-  * Maltab (expert)
-  * Git (expert)
+  * Maltab (advanced)
+  * Git (advanced)
   * Linux/UNIX (advanced)
 * Languages
   * English (fluent)
   * French (fluent)
-  * Spanish (notions)
 
 A work day of my life
 ======
