@@ -16,7 +16,9 @@ Biological flows
 =====
 I am currently implementing a solver for elastic membranes surrounded by viscous fluids. This topic is highly relevant to biological flows, since a Red Blood Cell (RBC) is nothing else than a droplet of viscous fluid (hemoglobine) surrounded by a lipid-bilayer membrane, and immersed in blood plasma. My code relies on the multiphase flow solver [Basilisk](http://www.basilisk.fr) and is [fully open-source](http://basilisk.fr/sandbox/huet/README).
 The movie below represents an elastic capsule deforming while it flows through a constricted square pipe. Colour represents the x-component of the fluid velocity.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RbY6CrIJKpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="1200" height="300" src="https://www.youtube-nocookie.com/embed/PH_RgW8Y39Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Below is another example of the adaptive front-tracking solver for elastic membranes that I develop. Two initially spherical membranes are placed in a shear flow and we witness their interception. The color field represents the vertical component of the velocity.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TiHKCAAelV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
