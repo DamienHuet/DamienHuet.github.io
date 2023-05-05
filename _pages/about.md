@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a {{site.author.occupation}} at {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. Under the supervision of Prof. Anthony Wachs, my reserch interests pertain to the numerical simulations of biological capsules in capillary vessels, as well as simulations of entangled granular media.
+I am a {{site.author.occupation}} at {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. My reserch interests pertain to applied mathematics and high-performance scientific computing: in particular, I develop numerical methods applied to various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) in the context of biological flows.
 
 ---
 
 Biological flows
 =====
-I am currently implementing a solver for elastic membranes surrounded by viscous fluids. This topic is highly relevant to biological flows, since a Red Blood Cell (RBC) is nothing else than a droplet of viscous fluid (hemoglobine) surrounded by a lipid-bilayer membrane, and immersed in blood plasma. My code relies on the multiphase flow solver [Basilisk](http://www.basilisk.fr) and is [fully open-source](http://basilisk.fr/sandbox/huet/README).
-The movie below represents an elastic capsule deforming while it flows through a constricted square pipe. Colour represents the x-component of the fluid velocity.
+I have implemented a solver for elastic membranes surrounded by viscous fluids. This topic is highly relevant to biological flows, since a Red Blood Cell (RBC) is nothing else than a droplet of viscous fluid (hemoglobin) surrounded by an elastic membrane (a lipid bilayer), and immersed in blood plasma. My code relies on the multiphase flow solver [Basilisk](http://www.basilisk.fr) and is [fully open-source](http://basilisk.fr/sandbox/huet/README). My code is developed using coding best practices, and undergoes rigorous tests that are also fully open source.
+The movie below represents an elastic capsule deforming while it flows through a constricted channel. Colour represents the x-component of the fluid velocity.
 <p align="center">
 <iframe width="1200" height="300" src="https://www.youtube-nocookie.com/embed/PH_RgW8Y39Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
