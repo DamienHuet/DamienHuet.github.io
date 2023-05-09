@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a {{site.author.occupation}} at {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. My reserch interests pertain to applied mathematics and high-performance scientific computing: in particular, I develop numerical methods applied to various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) in the context of biological flows.
+I am a {{site.author.occupation}} at {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. In my PhD, my reserch interests pertained to applied mathematics and high-performance scientific computing: in particular, I developed numerical methods applied to various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) such as the Navier-Stokes equations, which describe the motion of fluids.
 
 ---
 
@@ -21,7 +21,7 @@ The movie below represents an elastic capsule deforming while it flows through a
 </p>
 
 Below is another example of the adaptive front-tracking solver for elastic membranes that I develop. Two initially spherical membranes are placed in a shear flow and we witness their interception. The color field represents the vertical component of the velocity.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TiHKCAAelV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="225" src="https://www.youtube.com/embed/TiHKCAAelV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

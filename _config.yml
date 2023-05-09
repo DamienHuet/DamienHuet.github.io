@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Damien P. Huet"
+title                    : "Damien Huet"
 title_separator          : "-"
 name                     : &name "Damien Huet"
 description              : &description "personal description"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Damien P. Huet"
+  name             : "Damien Huet"
   avatar           : "damienhuet.jpg"
-  bio              : "Numerical simulations, Fluid mechanics, Granular flows,  Biological flows"
+  bio              : "Applied Mathematics, High-Performance Computing (HPC), Computational Physics"
   location         : "Vancouver, BC, Canada"
   location_short   : "Vancouver"
-  occupation       : "PhD candidate in mathematics"
+  occupation       : "PhD graduate in applied mathematics"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=VmqKSJ8AAAAJ&hl=en&inst=17001591832933267808"
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/damienhuet"
+  linkedin         : "damienhuet"
   orcid            : "https://orcid.org/0000-0002-5512-3433"
   pinterest        :
   soundcloud       :
