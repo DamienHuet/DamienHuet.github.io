@@ -27,18 +27,17 @@ Skills
 ======
 * Programming
   * C/C++ (expert)
-  * Python (advanced)
   * MPI/OpenMP (advanced)
-  * Maltab (advanced)
-  * Git (advanced)
+  * Python (advanced)
+  * Julia, serial & parallel (advanced)
+  * Maltab (intermediate)
+  * Git & CI/CD (advanced)
   * Linux/UNIX (advanced)
+  * High Performance Computing (expert)
+  * Cloud Computing (advanced)
 * Languages
   * English (fluent)
   * French (fluent)
-
-A work day of my life
-======
-<img src="/images/workday.png" alt="Diagram of a typical workday of my life" width="60%"/>
 
 Publications
 ======
@@ -48,9 +47,13 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * PRCR 2023 (Pacific Rim Conference in Rheology), Vancouver, Canada, May 2023.
+  * SCAIM seminar (Scientific Computing for Applied Industrial Mathematics), Vancouver, Canada, March 2023.
+  * Mathematical Modeling and Computational Physics, Vancouver, Canada, February 2023.
+  * Basilisk Monthly Meeting, Sorbonne Université, Paris, France, December 2022.
+  * IUTAM Symposium 2022, Toulouse, France, August 2022.
+  * APS Division of Fluid Dynamics annual meeting, Seattle, WA, November 2019.
+  * Fluid Seminars Series, Vancouver, Canada, August 2019.
 
 Awards
 ======
@@ -75,7 +78,7 @@ Service and leadership
 * Active member of the student committee of the [Institute of Applied Mathematics](https://www.iam.ubc.ca/)  
   * Foster sense of community among students conducting interdisciplinary research related to mathematics.
   * Organize workshops by and for IAM students
-  * Organize the annual IAM Retreat: a one-day event where 50+ student and faculty IAM members share their research and build community.
+  * Organize the annual IAM Retreat: a one-day event where 90+ student and faculty IAM members share their research and build community.
 
 * President of Physics club  
   * Co-founded and led a student Physics club (20+ members)

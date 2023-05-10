@@ -1,13 +1,13 @@
 
 - title: "Bachelor of Science"
-  institution: "ENSTA Paris (Université Paris-Saclay) & Lycée Pierre Corneille"
+  institution: "ENSTA Paris (Paris Institute of Technology) & Lycée Pierre Corneille"
   discipline: "Mathematics, Physics, Mechanics, Computer Science"
   start_date: "2013"
   end_date: "2016"
   location: "Palaiseau & Rouen, France"
 
 - title: "Master of Science"
-  institution: "ENSTA Paris (Université Paris-Saclay)"
+  institution: "ENSTA Paris (Paris Institute of Technology)"
   discipline: "Mathematical modeling and numerical simulations"
   start_date: "2015"
   end_date: "2017"
@@ -22,8 +22,7 @@
 
 - title: "Doctor of Philosophy in Mathematics"
   institution: "The University of British Columbia"
-  topic: "Numerical simulations of complex flows: from entangled granular media to biological capsules"
+  topic: "Numerical methods for biological flows laden with deformable capsules and solid particles."
   start_date: "2019"
-  end_date:
+  end_date: "2023"
   location: "Vancouver, BC, Canada"
-  advisor: "Prof. Anthony Wachs"

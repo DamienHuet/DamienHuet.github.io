@@ -1,8 +1,15 @@
-- title: "Research assistant"
+- title: "Graduate Research assistant"
   institution: "The University of British Columbia"
   description: "Blood rheology relevant to microﬂuidics blood plasma extraction systems. Responsibilities: designing, conducting and interpreting rheological experiments; mathematically modeling and computing blood ﬂow in a microchip device."
   start_date: "2017-05-08"
   end_date: "2017-08-01"
+  location: "Vancouver, BC, Canada"
+
+- title: "Graduate Research assistant"
+  institution: "KTH & SciLifeLab"
+  description: "Optimized Relion, a hybrid CPU-GPU image processing software combining standard Fourier-based image visualization methods with machine-learning and denoising techniques."
+  start_date: "2017-09-01"
+  end_date: "2018-01-01"
   location: "Vancouver, BC, Canada"
 
 - title: "Mathematics instructor"
@@ -15,6 +22,21 @@
 - title: "Administrator of the repository of Pr. Wachs’ lab"
   institution: "The University of British Columbia"
   description: "Creation and maintenance of a GitLab repository for our research C/C++ code. Creation of a Continuous Integration (CI) workflow benefitting all developers of the group. Advocation on good coding practices within the lab, through presentations and training."
+  start_date: "2020-09-01"
+  end_date:
+  location: "Vancouver, BC, Canada"
+
+- title: "Graduate Researcher, Computational Physicist"
+  institution: "The University of British Columbia"
+  description: "Created a high-performance, parallel computational fluid dynamics (CFD) code for
+multiphase flows performing orders of magnitude faster than the state of the art.
+Received public congratulations for my contribution and my rigorous code documentation
+and code testing practices from the owner of the widely used open-source Basilisk software.
+Dramatically improved a high-performance, parallel simulation solver for granular materials
+by implementing a model decreasing the solver inaccuracies by up to 6 orders of magnitude.
+Led research collaborations involving physical modeling, computing on parallel machines, confirming fidelity of the solver and models using experimental data, and submitting our findings to top-tier peer-reviewed journals.
+Demonstrated willingness to learn new methods under minimal supervision.
+Self-motivated: created my own ambitious goals and met them in a fast-paced environment."
   start_date: "2020-09-01"
   end_date:
   location: "Vancouver, BC, Canada"
