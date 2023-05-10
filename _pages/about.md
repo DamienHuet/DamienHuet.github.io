@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a {{site.author.occupation}} at {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. In my PhD, my reserch interests pertained to applied mathematics and high-performance scientific computing: in particular, I developed numerical methods applied to various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) such as the Navier-Stokes equations, which describe the motion of fluids.
+I am a recent {{site.author.occupation}} from {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. In my PhD, my reserch interests pertained to Applied Mathematics and High-Performance Computing: in particular, I developed numerical methods applied to various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) such as the Navier-Stokes equations, which describe the motion of fluids.
 
 ---
 
