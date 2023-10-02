@@ -16,7 +16,7 @@ Biological flows
 =====
 I have implemented a solver for elastic membranes surrounded by viscous fluids, also referred to as capsules. This topic is highly relevant to biological flows, since a Red Blood Cell (RBC) is nothing else than a droplet of viscous fluid (hemoglobin) surrounded by an elastic membrane (a lipid bilayer), and immersed in blood plasma. My code relies on the multiphase flow solver [Basilisk](http://www.basilisk.fr) and is [fully open-source](http://basilisk.fr/sandbox/huet/README). My code is developed using coding best practices, and undergoes rigorous tests that are also fully open source. The movie below demonstrates that this solver is able to simulate flowing highly interacting capsules in a wide variety of configurations, including in low and highly inertial flows, and in large complex domains.
 <p align="center">
-<iframe width="300" height="300" src="https://www.youtube-nocookie.com/embed/37bvtVl5jcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="200" src="https://www.youtube-nocookie.com/embed/37bvtVl5jcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 The movie below represents an elastic capsule deforming while it flows through a constricted channel. Colour represents the x-component of the fluid velocity.
 <p align="center">
