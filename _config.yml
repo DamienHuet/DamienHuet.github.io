@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=VmqKSJ8AAAAJ&hl=en&inst=17001591832933267808"
-  email            : "damien.huet@pm.me"
+  email            : "dhuet.1vwmd@simplelogin.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,9 +98,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/DamienHuet"
   basiliskrepo     : "http://basilisk.fr/sandbox/huet/README"
-  wachsgrouprepo   : "Not open-source yet :("
   google_plus      :
   keybase          :
   instagram        :
