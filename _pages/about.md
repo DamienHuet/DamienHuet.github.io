@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent {{site.author.occupation}} from {{site.author.institution}}{% if site.author.location_short %}, in the beautiful city of {{site.author.location_short}}{% endif %}. In my PhD, my reserch interests pertained to applied mathematics and High-Performance Computing: in particular, I developed numerical methods for various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) such as the Navier-Stokes equations, which describe the motion of fluids.
+I am an applied mathematician at Type One Energy, in the beautiful city of {{site.author.location_short}}. I completed my PhD in applied mathematics from the University of British Columbia, where my reserch interests pertained to numerical methods, high-performance computing and computational fluid dynamics. In particular, I developed numerical methods for various applications, ranging from numerical simulations of granular dyanamics to finding solutions to complex nonlinear Partial Differential Equations (PDEs) such as the Navier-Stokes equations, which describe the motion of fluids.
 
 ---
 

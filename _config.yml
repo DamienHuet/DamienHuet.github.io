@@ -85,11 +85,11 @@ author:
   bio              : "Applied Mathematics, High-Performance Computing (HPC), Computational Physics"
   location         : "Vancouver, BC, Canada"
   location_short   : "Vancouver"
-  occupation       : "PhD graduate in applied mathematics"
+  occupation       : "Applied mathematician"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=VmqKSJ8AAAAJ&hl=en&inst=17001591832933267808"
-  email            : "huet@math.ubc.ca"
+  email            : "damien.huet@pm.me"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -119,8 +119,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  institution      : "the University of British Columbia"
-  institution_short: "UBC"
+  institution      : "Type One Energy"
+  institution_short:
 
 
 # Reading Files
